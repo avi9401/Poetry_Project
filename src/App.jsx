@@ -7,9 +7,9 @@ import { Poetry } from './components/Poetry'
 
 const App = () => (
       <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="Stories" element={<Stories />}/>
-        <Route path="Poetry" element={<Poetry />} />
+        <Route path="/Poetry_Project" element={<Home />}/>
+        <Route path="Poetry_Project/Stories" element={<Stories />}/>
+        <Route path="Poetry_Project/Poetry" element={<Poetry />} />
       </Routes>  
   )
 
