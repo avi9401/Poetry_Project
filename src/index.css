@@ -363,7 +363,7 @@ p {
   .nav {
   position: sticky;
   top: 0;
-  background: #ffffe6;
+  background: #ffffff;
   color: white;
   display: flex;
   flex-direction: column;
@@ -495,7 +495,7 @@ p {
   width: auto;
   min-width: 450px;
   height: auto;
-  background: #80ffaa;
+  background: #ffffff;
   padding: 4rem;
   margin: 20px;
   border: 0;
@@ -515,7 +515,7 @@ p {
   width: auto;
   min-width: 450px;
   height: auto;
-  background: #80ffaa;
+  background: #ffffff;
   padding: 4rem;
   margin: 20px;
   border: 0;
@@ -536,7 +536,7 @@ p {
 
 .comp {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   flex-direction: row;
   margin: 45px 40px 0px 40px;
   gap: 1rem;
