@@ -16,7 +16,7 @@ const Hero = () =>  (
         
       </div>
       <div className='poetry'>
-        <h2 className='header2'>Poetry</h2>
+        <h2 className='header2'>Poem</h2>
         <p className='p2'> Poems by Avi
          </p>
          <Button1 />
