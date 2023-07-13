@@ -1,5 +1,5 @@
 import React from 'react'
-import { insta, hp, twt } from "../assets/";
+import { insta, hp, twt, github } from "../assets/";
 
 const Links = () => (
      <div className='links-section'>
@@ -16,6 +16,10 @@ const Links = () => (
             <li>
              <img src={ hp } alt="insta1" className='insta-logo' />
              <a href="#">H-Poetry</a>
+           </li>
+           <li>
+             <img src={ github } alt="insta1" className='insta-logo' />
+             <a href="#">GitHub</a>
            </li>
           </ul>
         </div>
