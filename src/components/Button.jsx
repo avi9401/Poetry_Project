@@ -7,7 +7,7 @@ export const Button = () =>  {
 
 const navigate = useNavigate()
 return (
-    <button class="button-56" role="button" onClick={() => navigate('Stories')}> < AiOutlineDoubleRight />
+    <button className="button-56" role="button" onClick={() => navigate('Stories')}> < AiOutlineDoubleRight />
     </button>
   )
 

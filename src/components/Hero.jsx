@@ -8,11 +8,11 @@ const Hero = () =>  (
 
  
     <section className='hero-section'>
-     <div className='hero-section2'>
+     <div className='hero-section2' >
       <div className='poetry0'>
         <h2 className='header1'>Story</h2>
         <p className='p1'>Stories by Avi</p>
-        <Button />
+        <Button  />
         
       </div>
       <div className='poetry'>
